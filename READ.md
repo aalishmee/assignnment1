@@ -7,6 +7,7 @@
 
 ## Objective
 Learn the fundamentals of HTML and CSS by building a complete webpage from scratch, including: text structure, lists, tables, forms and images, then styling it with inline, internal, and external CSS and finally publishing it online using GitHub.
+
 ---
 
 ## Part 1 — Introduction to HTML
@@ -27,7 +28,7 @@ Learn the fundamentals of HTML and CSS by building a complete webpage from scrat
 ---
 
 ## Part 2 — Intermediate HTML
-**Tasks completed:**
+**Steps completed:**
 - Created a table with 3 columns: Subject, Day, Time
 - Filled it with my weekly class schedule
 - Created a two-column layout using a table (left = menu, right = main content)
@@ -41,7 +42,7 @@ Learn the fundamentals of HTML and CSS by building a complete webpage from scrat
 ---
 
 ## Part 3 — Introduction to CSS
-**Tasks completed:**
+**Steps completed:**
 - Added inline CSS to one paragraph (`style="color: #C71585;"`)
 - Added internal CSS inside `<head>` using a `<style>` block
 - Created an external stylesheet `style.css` and linked it with `<link rel="stylesheet" href="style.css">`
@@ -57,7 +58,7 @@ Learn the fundamentals of HTML and CSS by building a complete webpage from scrat
 ---
 
 ## Part 4 — Intermediate CSS
-**Tasks completed:**
+  **Steps completed:**
 - Added a favicon using `<link rel="icon" type="image/png" href="favicon.png">`
 - Created header, main content and footer `<div>` sections with background colors and padding
 - Added a box model demo (padding, border, margin)
