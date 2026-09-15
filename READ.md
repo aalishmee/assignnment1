@@ -1,7 +1,7 @@
 # Assignment 1 — Web Technologies
 **Name:** Alish Medina  
 **Group:** SE-2538  
-**Live Website:** [https://YOUR-USERNAME.github.io/web1/](https://github.com/aalishmee/assignnment1)
+**Live Website:** (https://github.com/aalishmee/assignnment1)
 
 ---
 
